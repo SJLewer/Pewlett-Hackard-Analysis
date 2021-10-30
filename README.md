@@ -38,6 +38,6 @@ As the "silver tsunami" begins to make an impact, vacancies will occur among sev
 ## Resources
 _Data Sources_: 
 
-_PostgreSQL 11 Script_: 
+_PostgreSQL 11 Script_: https://github.com/SJLewer/Pewlett-Hackard-Analysis/blob/main/Employee_Database_challenge.sql
 
 _Analyst_: S. Lewer
