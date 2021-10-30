@@ -36,7 +36,7 @@ As the "silver tsunami" begins to make an impact, vacancies will occur among sev
 
  ___
 ## Resources
-_Data Sources_: 
+_Data Sources_: https://github.com/SJLewer/Pewlett-Hackard-Analysis/tree/main/Analysis%20Projects/Pewlett-Hackard-Analysis/Data
 
 _PostgreSQL 11 Script_: https://github.com/SJLewer/Pewlett-Hackard-Analysis/blob/main/Employee_Database_challenge.sql
 
