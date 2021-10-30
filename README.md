@@ -23,10 +23,10 @@ Employee data has only been available in Excel spreadsheets.  This project will 
  
   ![image](https://user-images.githubusercontent.com/90986041/139531087-9a6fa616-8738-451e-ba1e-6849e6bf494f.png)
 
- The full list is available in this file: 
+ The full list is available in this file: https://github.com/SJLewer/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects/Pewlett-Hackard-Analysis/Data/mentorship_eligibiltiy.csv
 
 * 1,549 employees are eligible to participate in a mentorship program.
-* There no eligible staff for the Manager mentorship program.
+* There are no eligible staff for the Manager mentorship program.
   
 ## Summary:
 As the "silver tsunami" begins to make an impact, vacancies will occur by the thousands among seven roles listed above.  The side-by-side comparison below (sorted by title) highlights the fact that there are not enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett-Hackard employees.  Unless Pewlett-Harkard is able to quickly implement improved processes that require fewer staff, purposeful targeted recruitment efforts will be necessary to backfill the vacated positions.
